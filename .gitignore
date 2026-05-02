@@ -1,0 +1,20 @@
+# binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# logs
+*.log
+
+# database
+*.db
+
+# build folders
+bin/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
